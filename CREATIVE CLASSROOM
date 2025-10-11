@@ -1,0 +1,50 @@
+<DOCTYPE html>
+<html>  
+    <head> 
+        <meta Charset="UTF-8">
+        <meta name="viewport"content="width=device-width,initial-scale=1.0">
+        <title>Creative Classroom</title>
+        <link rel="stylesheet" href="CREATIVE CLASSROOM.css">
+       </head>
+       
+       <body>
+        <div class="main-container">
+            <h1> CREATIVE <br>CLASSROOM</h1>
+            </div>
+            <div>
+                 <h2> creative is limitless</h2>
+            </div>
+             <h3> behin your creative journey</h3>
+            </div>
+            <head>
+
+</head>
+       </body>
+
+body {
+ background-color: white;
+ background-image: url(CREATIVE\ CLASSROOM\ BG.png);
+ background-size: cover;
+background-position: center;
+line-height: 1.9;
+height: 10vh;
+margin:0;
+font-family: "Pixelify Sans", sans-serif;
+color:blueviolet;
+text-align: center;
+padding-top: 30px;;
+}
+
+h1{
+  font-size: 5vw;
+}
+p{
+  font: size 6vw;
+}
+p{
+  word-spacing: 10px;
+}
+    
+      
+</html>
+    
